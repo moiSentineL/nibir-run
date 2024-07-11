@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://cass.run",
+  "baseUrl": "https://run.nibirsan.org",
   "private": true,
   "scripts": {
     "shorten": "netlify-shortener"

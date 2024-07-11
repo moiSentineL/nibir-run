@@ -1,8 +1,8 @@
-# cass.run
+# nibir.run
 
 My own lil URL shortener
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/97d21626-4a0e-4a5b-b658-9f559133e4aa/deploy-status)](https://app.netlify.com/sites/cass-run/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/22c137af-e783-4ea2-ad5c-2c6489a5e0ba/deploy-status)](https://app.netlify.com/sites/nibir-shortener/deploys)
 
 ## Make your own
 
