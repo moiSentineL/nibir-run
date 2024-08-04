@@ -1,14 +1,15 @@
-/sandbox https://github.com/moiSentineL/sandbox
-/ptl https://github.com/moiSentineL/portabletl
-/explanatory https://youtube.com/playlist?list=PLo9XlrGEbSgj1YFpL378x3AzjmfjVzidu&si=xRLiZVI80uCp2x0A
-/dicto https://github.com/moiSentineL/dicto
-/substack https://visionoflife.substack.com
-/survey https://ptir3rhoyz7.typeform.com/to/bZieinf6
-/blog https://nibirsan.org/blog/
-/shortener https://github.com/moiSentineL/nibir.run
+/gists         https://github.com/moiSentineL/gists-catalogue
+/sandbox       https://github.com/moiSentineL/sandbox
+/ptl           https://github.com/moiSentineL/portabletl
+/explanatory   https://youtube.com/playlist?list=PLo9XlrGEbSgj1YFpL378x3AzjmfjVzidu&si=xRLiZVI80uCp2x0A
+/dicto         https://github.com/moiSentineL/dicto
+/substack      https://visionoflife.substack.com
+/survey        https://ptir3rhoyz7.typeform.com/to/bZieinf6
+/blog          https://nibirsan.org/blog/
+/shortener     https://github.com/moiSentineL/nibir.run
 referer=EEA27B
-/tw https://twitter.com/moisentinel
-/gh https://github.com/moiSentineL
+/tw            https://twitter.com/moisentinel
+/gh            https://github.com/moiSentineL
 
 #fallback
-/\* https://nibirsan.org/
+/\*            https://nibirsan.org/
