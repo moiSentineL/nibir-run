@@ -1,24 +1,25 @@
-/library       https://www.librarything.com/catalog/nibirsan
-/podcast       https://open.spotify.com/show/3Gwt4r3V3TqPVPYY5fpAB9?si=7dc115c6455e4a2c
-/coffee        https://buymeacoffee.com/nibirsan
-/support       https://onlychai.neocities.org/support.html?name=Nibir%20Sankar&upi=nibir%40fam
-/now           https://nibirsan.org/about/#now
-/top           https://nibirsan.org/blog/top/
-/skepticism    https://visionoflife.substack.com/p/why-skepticism-is-important
-/li            https://www.linkedin.com/in/nibirsankar/
-/yt            https://www.youtube.com/@nibirsankar
-/gists         https://github.com/moiSentineL/gists-catalogue
-/sandbox       https://github.com/moiSentineL/sandbox
-/ptl           https://github.com/moiSentineL/portabletl
-/explanatory   https://youtube.com/playlist?list=PLo9XlrGEbSgj1YFpL378x3AzjmfjVzidu&si=xRLiZVI80uCp2x0A
-/dicto         https://github.com/moiSentineL/dicto
-/substack      https://visionoflife.substack.com
-/survey        https://ptir3rhoyz7.typeform.com/to/bZieinf6
-/blog          https://nibirsan.org/blog/
-/shortener     https://github.com/moiSentineL/nibir.run
+/stream-schedule   https://calendar.google.com/calendar/u/0?cid=NjBmOTE4MTc1MmNhNjkzMjRmNTkxZGE4YTM2YWY2YzY4NDQzNmQ4MWM2YWE4ZGQ2YWEwYjE2ZjA4YjMzZGEyNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+/library           https://www.librarything.com/catalog/nibirsan
+/podcast           https://open.spotify.com/show/3Gwt4r3V3TqPVPYY5fpAB9?si=7dc115c6455e4a2c
+/coffee            https://buymeacoffee.com/nibirsan
+/support           https://onlychai.neocities.org/support.html?name=Nibir%20Sankar&upi=nibir%40fam
+/now               https://nibirsan.org/about/#now
+/top               https://nibirsan.org/blog/top/
+/skepticism        https://visionoflife.substack.com/p/why-skepticism-is-important
+/li                https://www.linkedin.com/in/nibirsankar/
+/yt                https://www.youtube.com/@nibirsankar
+/gists             https://github.com/moiSentineL/gists-catalogue
+/sandbox           https://github.com/moiSentineL/sandbox
+/ptl               https://github.com/moiSentineL/portabletl
+/explanatory       https://youtube.com/playlist?list=PLo9XlrGEbSgj1YFpL378x3AzjmfjVzidu&si=xRLiZVI80uCp2x0A
+/dicto             https://github.com/moiSentineL/dicto
+/substack          https://visionoflife.substack.com
+/survey            https://ptir3rhoyz7.typeform.com/to/bZieinf6
+/blog              https://nibirsan.org/blog/
+/shortener         https://github.com/moiSentineL/nibir.run
 referer=EEA27B
-/tw            https://twitter.com/moisentinel
-/gh            https://github.com/moiSentineL
+/tw                https://twitter.com/moisentinel
+/gh                https://github.com/moiSentineL
 
 #fallback
-/\*            https://nibirsan.org/
+/\*                https://nibirsan.org/
